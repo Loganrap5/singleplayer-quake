@@ -35,6 +35,7 @@ benefit you more than you know...
 There are many different cobblestone and smooth stone textures that you can find online. This idea came from a trip I made a while back to St Augustine Florida, and there you can find many old monuments.
 One particular one I saw was the Castillo de San Marcos monument, which has a very unique design and one of the oldest you can find. Its sort of shaped like a ninja star. While its not medieval, it still gave me the idea to make some sort of fortress the player has 
 to get through. 
+
 ![Screenshot 2024-11-06 171020](https://github.com/user-attachments/assets/ca5c6915-76a5-47d9-844d-5ee0862f436a)
 ![Screenshot 2024-11-06 171042](https://github.com/user-attachments/assets/d33594c5-e969-44a4-bf29-75701dec98df)
 

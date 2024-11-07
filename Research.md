@@ -21,7 +21,8 @@ A series I love playing is Dark Souls. Particularly the level design and theme. 
 ## A more detailed breakdown
 
 Ive incorporated some of the structural details similar to these. For the fortress to make sense, it needs high walls, a moat, and structural defense. 
-I also liked the unique design of the fort, and while its not completly the same as mine, I wanted to incorporate these shapes somehow. 
+I also liked the unique design of the fort, and while its not completly the same as mine, I wanted to incorporate these shapes somehow. Another small detail is the chokepoint entrances,
+most fortresses may have one way in and out (other than secret entrances/exits)
 
 ![star](https://github.com/user-attachments/assets/85fe6b81-3d6f-4a71-b209-a7493a9902ff)
 

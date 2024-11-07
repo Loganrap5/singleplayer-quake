@@ -6,7 +6,7 @@ For this map I took inspiration from many different things. Some are from places
 
 #### Castillo de san Marcos
 The inital idea came to me when I visited a fort in St Augustine Florida
-It's called Castillo de san Marcos, and is known for its unique star shape. While not medieval, the fortress inspired me to implement something like this in a level.
+called Castillo de san Marcos, and is known for its unique star shape. While not medieval, the fortress inspired me to implement something like this in a level.
 
 ![image](https://github.com/user-attachments/assets/913da8a7-1ede-4e91-931c-ea2468a6f87d)
 

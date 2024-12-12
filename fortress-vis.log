@@ -6,17 +6,17 @@
 LoadBSPFile: 'fortress.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-  5043 leafs
-  5025 clusters
- 17991 portals
+  5419 leafs
+  5401 clusters
+ 19003 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 1435
+average leafs visible: 1345
 c_noclip: 0
-c_chains: 6826510255
-visdatasize:1904551  compressed from 3182133
+c_chains: 6795677469
+visdatasize:2075061  compressed from 3674082
 Writing fortress.bsp as Quake BSP bsp29
-4409.25s elapsed
+40677.64s elapsed
 
 

@@ -11,3 +11,7 @@ Singleplayer quake map
 [Areas and Bubble Diagram](https://github.com/Loganrap5/singleplayer-quake/blob/main/Areas%20and%20Bubble%20Diagram.md)
 
 [Topdown Map and Walkthrough](https://github.com/Loganrap5/singleplayer-quake/blob/main/Topdown%20Layout%20and%20Gameplay%20walkthrough.md)
+
+[Blockout](https://github.com/Loganrap5/singleplayer-quake/blob/main/Blockout.md)
+
+[Gameplay and Iteration](https://github.com/Loganrap5/singleplayer-quake/blob/main/Gameplay%20and%20Iteration.md)

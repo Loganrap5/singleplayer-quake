@@ -15,3 +15,5 @@ Singleplayer quake map
 [Blockout](https://github.com/Loganrap5/singleplayer-quake/blob/main/Blockout.md)
 
 [Gameplay and Iteration](https://github.com/Loganrap5/singleplayer-quake/blob/main/Gameplay%20and%20Iteration.md)
+
+[Lighting](https://github.com/Loganrap5/singleplayer-quake/blob/main/Lighting%20and%20Textures.md)

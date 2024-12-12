@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-25-gd532580a ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'fortress.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+  5043 leafs
+  5025 clusters
+ 17991 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 1435
+c_noclip: 0
+c_chains: 6826510255
+visdatasize:1904551  compressed from 3182133
+Writing fortress.bsp as Quake BSP bsp29
+4409.25s elapsed
+
+
